@@ -20,5 +20,5 @@ let package = Package(
             path: "PhotoCamera/Sources"
         ),
     ],
-	swiftLanguageVersions: [.version("6")]
+	swiftLanguageModes: [.version("6")]
 )
